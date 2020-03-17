@@ -5,7 +5,9 @@ _________________
 Prerequisites: you need to have installed mvn and java, and added path to env variable
 
 go to QASandbox folder
+
 open cmd 
+
 run: mvn -Dtest=SuiteTest test
 
 __________________
